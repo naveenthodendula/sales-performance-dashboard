@@ -32,10 +32,14 @@ The goal is to help businesses make data-driven decisions by visualizing importa
 
 ---
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+## Dashboard preview
+![1000129488](https://github.com/user-attachments/assets/d05a111e-a552-422c-acbd-a5db34ba600b)
+![1000129487](https://github.com/user-attachments/assets/df6e00ef-24c8-47fc-81e1-3dac8ce9f537)
+![1000129486](https://github.com/user-attachments/assets/1c71922d-70a2-4b9c-ae30-3e0ff8c0c8b4)
+![1000129487](https://github.com/user-attachments/assets/020dc74b-f81b-4ffd-90d7-4aedf6115009)
 
 ---
+
 
 ## 🚀 Future Improvements
 - Integrate Power BI for advanced visualization  
