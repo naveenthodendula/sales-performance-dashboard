@@ -33,10 +33,11 @@ The goal is to help businesses make data-driven decisions by visualizing importa
 ---
 
 ## Dashboard preview
-![1000129488](https://github.com/user-attachments/assets/d05a111e-a552-422c-acbd-a5db34ba600b)
-![1000129487](https://github.com/user-attachments/assets/df6e00ef-24c8-47fc-81e1-3dac8ce9f537)
-![1000129486](https://github.com/user-attachments/assets/1c71922d-70a2-4b9c-ae30-3e0ff8c0c8b4)
-![1000129487](https://github.com/user-attachments/assets/020dc74b-f81b-4ffd-90d7-4aedf6115009)
+![1000129489](https://github.com/user-attachments/assets/ead2eeba-3b03-4ddf-b7c1-ce4f372ed394)
+![1000129488](https://github.com/user-attachments/assets/3a6e00c0-7059-4b39-a23a-aa8c2dac4be7)
+![1000129487](https://github.com/user-attachments/assets/c25e587b-6708-4319-abe0-f44d7a7bb41d)
+![1000129486](https://github.com/user-attachments/assets/a52cf4d7-bdc1-4c1b-bb89-5a21263f0d60)
+
 
 ---
 
